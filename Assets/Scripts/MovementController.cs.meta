@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: daf8df2776140a34ea81facae843bed8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_TargetShip: {instanceID: 0}
+  - m_MobileJoystick: {instanceID: 0}
+  - m_MobileFirePrimary: {instanceID: 0}
+  - m_MobileFireSecondary: {instanceID: 0}
+  - m_ButtonRight: {instanceID: 0}
+  - m_ButtonLeft: {instanceID: 0}
+  - m_SlowMoButtonRightLeft: {fileID: 7851264167943180242, guid: efd22625dcb8cce458f0a53940a6074d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
